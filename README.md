@@ -26,10 +26,9 @@ Edit the JSON in this file to the following:
 ## Antigravity
 This one is quite easy, go to `Antigravity Settings -> Editor` then change the following:
 ```
-Marketplace Item URL: https://marketplace.visualstudio.com/items
-Marketplace Gallery URL: https://marketplace.visualstudio.com/_apis/public/gallery
+    Marketplace Item URL: https://marketplace.visualstudio.com/items
+    Marketplace Gallery URL: https://marketplace.visualstudio.com/_apis/public/gallery
 ```
-
 
 ## Code Server
 Depending on the version of code server you have (gitpod, coder) this may differ slightly. If the following doesnt work, try applying the Cursor method. However the following should work atleast for the coder version and also is easy to use with docker.
