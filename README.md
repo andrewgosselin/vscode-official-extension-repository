@@ -35,7 +35,7 @@ This one is quite easy, go to `Antigravity Settings -> Editor` then change the f
     Marketplace Item URL: https://marketplace.visualstudio.com/items
     Marketplace Gallery URL: https://marketplace.visualstudio.com/_apis/public/gallery
 ```
-After that restart the editor.
+After that restart the editor, if you want to reimport your extensions you can hit F1 and run `import vscode extensions` to import them fully.
 
 ## Code Server
 Depending on the version of code server you have (gitpod, coder) this may differ slightly. If the following doesnt work, try applying the Cursor method. However the following should work atleast for the coder version and also is easy to use with docker.
