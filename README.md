@@ -1,4 +1,4 @@
-When you start using any vscode fork, you will quickly realize that it uses OpenVSX for its extension repository and that not all of your extensions get migrated over. A temporary fix is to just manually install the extension, however since the popularity of some of these forks it seems microsoft removed the direct download from the marketplace, making this hard. So here is the permanent solution for all of the editors to my knowledge (you can apply it in a similar fashion to all editors even not listed).
+When you start using any vscode fork, you will quickly realize that it uses OpenVSX for its extension repository because microsoft doesn't allow forks to use the official one out of the box) and that not all of your extensions get migrated over. A temporary fix is to just manually install the extension, however since the popularity of some of these forks it seems microsoft removed the direct download from the marketplace, making this hard. So here is the permanent solution for all of the editors to my knowledge (you can apply it in a similar fashion to all editors even not listed).
 
 ## Cursor
 
