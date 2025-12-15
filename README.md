@@ -36,7 +36,7 @@ Depending on the version of code server you have (gitpod, coder) this may differ
 Set the following ENV variables, if you are using docker or some kind of containerization just set it the normal way to set environment variables in the container. If you are on a manual installation on your system, you will have to add this globally or add it into the startup script of cursor.
 
 ```
-EXTENSIONS_GALLERY={\"serviceUrl\": \"https://marketplace.visualstudio.com/_apis/public/gallery\", \"cacheUrl\": \"https://vscode.blob.core.windows.net/gallery/index\", \"itemUrl\": \"https://marketplace.visualstudio.com/items\", \"controlUrl\": \"https://az764295.vo.msecnd.net/extensions/marketplace.json\", \"recommendationsUrl\": \"https://az764295.vo.msecnd.net/extensions/workspaceRecommendations.json.gz\"}
+    EXTENSIONS_GALLERY={\"serviceUrl\": \"https://marketplace.visualstudio.com/_apis/public/gallery\", \"cacheUrl\": \"https://vscode.blob.core.windows.net/gallery/index\", \"itemUrl\": \"https://marketplace.visualstudio.com/items\", \"controlUrl\": \"https://az764295.vo.msecnd.net/extensions/marketplace.json\", \"recommendationsUrl\": \"https://az764295.vo.msecnd.net/extensions/workspaceRecommendations.json.gz\"}
 ```
 
 ## Other forks
