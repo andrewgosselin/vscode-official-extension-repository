@@ -2,7 +2,7 @@ When you start using a VS Code fork, you’ll quickly notice that it relies on O
 
 A common workaround is to manually install the missing extensions. However, as these forks have grown in popularity, Microsoft has removed direct download access from the Marketplace, making this approach increasingly impractical.
 
-Fortunately, there’s a permanent solution that works across all editors to my knowledge—and the same approach can be adapted for other editors, even if they aren’t listed here.
+Fortunately, there’s a permanent solution that works across all editors to my knowledge and the same approach can be adapted for other editors, even if they aren’t listed here.
 
 ## Cursor
 
